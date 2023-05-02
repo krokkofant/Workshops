@@ -7,6 +7,4 @@ dependencies:
   - pip
   - pip:
     - qiskit
-    - pylatexenc
     - matplotlib
-    - pandas
